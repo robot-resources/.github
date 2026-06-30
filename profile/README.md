@@ -2,13 +2,14 @@
 
 > Tools for AI agents. Humans have HR. Agents have RR.
 
-We build tools that let AI agents act on real platforms and run cheaply.
+We build tools that let AI agents do real work on the platforms your team already lives in.
 
-### Conduit — ready-made MCP flows for any platform
+### Conduit — automate the manual work on LinkedIn & WhatsApp
 
-Give your agents LinkedIn, WhatsApp & Gusto. Record a browser flow once, replay it
-locally forever — **zero tokens per run**, self-healing when the platform changes.
-Delivered as an MCP any agent (Claude Code, Cowork, Codex, any chat) can call.
+Your team's paid LinkedIn seats and WhatsApp numbers already give them the access — they
+just do the work by hand, one profile or one chat at a time. Conduit does that click-work
+**automatically, at the speed of an LLM**, on the accounts you already pay for, run from
+your chat (Claude Desktop, ChatGPT). **One seat does the work of several.**
 
 ### Router — the cheapest capable model, every call
 
@@ -18,8 +19,8 @@ OpenAI & Google.
 
 ### Pricing
 
-A reliable LinkedIn, WhatsApp & Gusto API for your team. Pricing scoped to your use
-case, set on a call — onboarding our first partners now.
+Sales-led. A reliable LinkedIn & WhatsApp engine for your team, scoped to your use case and
+set on a call. Onboarding our first partners now.
 
 ### Links
 
