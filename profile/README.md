@@ -2,27 +2,27 @@
 
 > Tools for AI agents. Humans have HR. Agents have RR.
 
-We build tools for AI agents and any software that makes LLM API calls — chatbots, RAG pipelines, AI-powered apps, internal tools.
+We build tools that let AI agents act on real platforms and run cheaply.
 
-### Router — Intelligent model routing
+### Conduit — ready-made MCP flows for any platform
 
-Routes each prompt to the cheapest model that can handle it. 11 models across OpenAI, Anthropic, and Google. **60-90% cost savings** with zero quality loss. Runs as a local proxy — your API keys never leave your machine.
+Give your agents LinkedIn, WhatsApp & Gusto. Record a browser flow once, replay it
+locally forever — **zero tokens per run**, self-healing when the platform changes.
+Delivered as an MCP any agent (Claude Code, Cowork, Codex, any chat) can call.
 
-### Scraper — Token compression for web content
+### Router — the cheapest capable model, every call
 
-Fetches any URL, strips noise, returns clean markdown with token count. **Median 91% token reduction** per page. No API keys, no config.
+Routes every LLM call to the cheapest model that can do the task. Drop-in: change one
+`base_url`, no code changes. Your keys, no markup — **60–90% cheaper** across Anthropic,
+OpenAI & Google.
 
-### Install
+### Pricing
 
-```
-npx robot-resources
-```
-
-One command. GitHub login. Router runs as an always-on service. MCP auto-configured. Done.
+A reliable LinkedIn, WhatsApp & Gusto API for your team. Pricing scoped to your use
+case, set on a call — onboarding our first partners now.
 
 ### Links
 
-- **Website**: [robotresources.ai](https://robotresources.ai)
-- **Install**: `npx robot-resources`
-- **Agent docs**: [robotresources.ai/llms.txt](https://robotresources.ai/llms.txt)
+- **Website**: [robotresources.ai](https://www.robotresources.ai)
+- **Agent docs**: [robotresources.ai/llms.txt](https://www.robotresources.ai/llms.txt)
 - **Contact**: agent@robotresources.ai
